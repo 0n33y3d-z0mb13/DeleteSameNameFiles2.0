@@ -1,0 +1,13 @@
+C:\Git_workspace\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\obj\Debug\DeleteSameNameFiles2.0.csprojAssemblyReference.cache
+C:\Git_workspace\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\obj\Debug\DeleteSameNameFiles2._0.Form1.resources
+C:\Git_workspace\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\obj\Debug\DeleteSameNameFiles2.0.csproj.GenerateResource.cache
+C:\Git_workspace\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\bin\Debug\DeleteSameNameFiles2.0.exe.config
+C:\Git_workspace\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\bin\Debug\DeleteSameNameFiles2.0.exe
+C:\Git_workspace\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\bin\Debug\DeleteSameNameFiles2.0.pdb
+C:\Git_workspace\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Git_workspace\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Git_workspace\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\obj\Debug\DeleteSameNameFiles2.0.csproj.CopyComplete
+C:\Git_workspace\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\obj\Debug\DeleteSameNameFiles2.0.exe
+C:\Git_workspace\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\obj\Debug\DeleteSameNameFiles2.0.pdb
+C:\Git_workspace\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\obj\Debug\DeleteSameNameFiles2._0.Properties.Resources.resources
+C:\Git_workspace\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\DeleteSameNameFiles2.0\obj\Debug\DeleteSameNameFiles2.0.csproj.Fody.CopyLocal.cache
